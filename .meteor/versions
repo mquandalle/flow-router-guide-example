@@ -1,3 +1,4 @@
+arillo:flow-router-helpers@0.4.5
 autopublish@1.0.3
 autoupdate@1.2.1
 base64@1.0.3
@@ -22,7 +23,7 @@ insecure@1.0.3
 jquery@1.11.3_2
 json@1.0.3
 kadira:blaze-layout@2.0.0
-kadira:flow-router@2.0.0
+kadira:flow-router@2.6.1
 launch-screen@1.0.2
 livedata@1.0.13
 logging@1.0.7
@@ -50,3 +51,4 @@ underscore@1.0.3
 url@1.0.4
 webapp@1.2.0
 webapp-hashing@1.0.3
+zimme:active-route@2.3.2

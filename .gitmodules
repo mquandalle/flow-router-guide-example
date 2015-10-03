@@ -1,0 +1,3 @@
+[submodule "packages/flow-router"]
+	path = packages/flow-router
+	url = git@github.com:mquandalle/flow-router.git
